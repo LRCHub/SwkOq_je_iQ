@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Desperado",
+  "base_artist": "Eagles",
+  "createdAt": "2026-02-21T02:52:57.786985Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Desperado - (Live)",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/01_Desperado_-_(Live)_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Desperado Love",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/02_Desperado_Love_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Concerto Of The Desperado",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/03_Concerto_Of_The_Desperado_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Desperado",
+      "artist": "Brujeria",
+      "has_synced": true,
+      "path": "select/04_Desperado_Brujeria.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Desperado",
+      "artist": "Brujería",
+      "has_synced": true,
+      "path": "select/05_Desperado_Brujería.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Desperado - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/06_Desperado_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Desperado",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/07_Desperado_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Doolin Dalton Desperado (Reprise)",
+      "artist": "The Eagles",
+      "has_synced": false,
+      "path": "select/08_Doolin_Dalton_Desperado_(Reprise)_The_Eagles.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Desperado",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/09_Desperado_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Desperado",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/10_Desperado_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Desperado",
+      "artist": "The Langley Schools Music Project",
+      "has_synced": false,
+      "path": "select/11_Desperado_The_Langley_Schools_Music_Project.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Desperado",
+      "artist": "Azealia Banks",
+      "has_synced": true,
+      "path": "select/12_Desperado_Azealia_Banks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Desperado",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/13_Desperado_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Desperado (Live)",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/14_Desperado_(Live)_Eagles.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Desperado (Live; 1999 Remaster)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/15_Desperado_(Live;_1999_Remaster)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Doolin-Dalton / Desperado (Reprise) - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/16_Doolin-Dalton___Desperado_(Reprise)_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Doolin-Dalton \u0000 Desperado (reprise)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/17_Doolin-Dalton_\u0000_Desperado_(reprise)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Desperado",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/18_Desperado_Alice_Cooper.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Desperado",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/pl_01_Desperado_Eagles.txt"
+    }
+  ]
+}
